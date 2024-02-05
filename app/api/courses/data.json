@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Machine Learning",
+    "description": "Explore the fundamentals of machine learning, algorithms, and data analysis.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 2,
+    "title": "Cybersecurity Essentials",
+    "description": "Learn the essentials of cybersecurity, including threat detection and prevention techniques.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Mastery",
+    "description": "Master the strategies and tools for effective digital marketing campaigns.",
+    "link": "#",
+    "level": "All Levels"
+  },
+  {
+    "id": 4,
+    "title": "Blockchain Fundamentals",
+    "description": "Understand the core concepts of blockchain technology and its applications.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 5,
+    "title": "Creative Writing Workshop",
+    "description": "Enhance your writing skills through a series of creative writing exercises and projects.",
+    "link": "#",
+    "level": "Beginner"
+  }
+]
